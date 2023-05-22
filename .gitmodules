@@ -1,3 +1,12 @@
 [submodule "Swift-Udemy-Learning-Xylo"]
 	path = Swift-Udemy-Learning-Xylo
 	url = https://github.com/bsz123/Swift-Udemy-Learning-Xylo.git
+[submodule "Swift-Udemy-Learning-Rich"]
+	path = Swift-Udemy-Learning-Rich
+	url = https://github.com/bsz123/Swift-Udemy-Learning-Rich.git
+[submodule "Swift-Udemy-Learning-Dicee"]
+	path = Swift-Udemy-Learning-Dicee
+	url = https://github.com/bsz123/Swift-Udemy-Learning-Dicee.git
+[submodule "Swift-Udemy-Learning-AutoLayout"]
+	path = Swift-Udemy-Learning-AutoLayout
+	url = https://github.com/bsz123/Swift-Udemy-Learning-AutoLayout.git
