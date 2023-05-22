@@ -13,3 +13,6 @@
 [submodule "Swift-Udemy-Learning-EggTimer"]
 	path = Swift-Udemy-Learning-EggTimer
 	url = https://github.com/bsz123/Swift-Udemy-Learning-EggTimer.git
+[submodule "Swift-Udemy-Learning-Quizzler"]
+	path = Swift-Udemy-Learning-Quizzler
+	url = https://github.com/bsz123/Swift-Udemy-Learning-Quizzler.git
