@@ -10,3 +10,6 @@
 [submodule "Swift-Udemy-Learning-AutoLayout"]
 	path = Swift-Udemy-Learning-AutoLayout
 	url = https://github.com/bsz123/Swift-Udemy-Learning-AutoLayout.git
+[submodule "Swift-Udemy-Learning-EggTimer"]
+	path = Swift-Udemy-Learning-EggTimer
+	url = https://github.com/bsz123/Swift-Udemy-Learning-EggTimer.git
