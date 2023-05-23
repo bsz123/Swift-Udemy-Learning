@@ -16,3 +16,6 @@
 [submodule "Swift-Udemy-Learning-Quizzler"]
 	path = Swift-Udemy-Learning-Quizzler
 	url = https://github.com/bsz123/Swift-Udemy-Learning-Quizzler.git
+[submodule "Swift-Udemy-Learning-Destini"]
+	path = Swift-Udemy-Learning-Destini
+	url = https://github.com/bsz123/Swift-Udemy-Learning-Destini.git
